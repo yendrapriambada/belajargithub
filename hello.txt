@@ -5,5 +5,3 @@ Mencoba menambahkan pembaruan deskripsi oleh awansilahua
 
 Kita coba edit yang kedua kalinya ya
 setelah itu kita cobain merge lagi
-
-Mencoba Push Request melalui fork
