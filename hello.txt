@@ -1,1 +1,4 @@
 Saya ingin repository saya terbebas dari conflict
+kita mulai dengan....
+Hello World
+Mencoba menambahkan pembaruan deskripsi oleh awansilahua
