@@ -7,4 +7,4 @@ Kita coba edit yang kedua kalinya ya
 setelah itu kita cobain merge lagi
 
 Awan menambahkan lagi deskripsi disini ya:
-awan ingin pemilik repo mencoba fitur code review
+Awan ingin yendrapriambada sebagai pemilik repo mencoba fitur code review
